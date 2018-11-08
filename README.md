@@ -3,7 +3,7 @@ This repository contains source on how to integrate a Panther grid screen with B
 
 # Pre-Requisite:
   * Panther Servlet/Apache
-  * anther ini file for the Panther Web application
+  * ini file for the Panther Web application
 
 # This repo consists of the following files:
   * main.css
