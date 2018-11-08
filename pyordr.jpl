@@ -1,0 +1,4 @@
+proc orderdetailspay
+{
+dbms sql select * from payoders order by serialnumber
+}
