@@ -29,7 +29,7 @@ Please unzip  this file  and have it pointed to by SMPATH in your Panther Web in
 # cookie
 This is the JDB database containing  used to  populate Panther Grids/Datatables.
 
-If you wish to generate PDF reports from this Panther screen visit our other repository: https://github.com/ProlificsPanther/Report-Writer
+If you wish to generate PDF reports from this Panther screen, please visit our other repository: https://github.com/ProlificsPanther/Report-Writer
 
 Video for Report Writer and Datatables: https://youtu.be/qk_K2Jd9Aco
 
