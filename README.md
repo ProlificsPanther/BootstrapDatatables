@@ -1,8 +1,8 @@
 # Datatables
 This repository contains source on how to integrate a Panther grid screen with Bootstrap datatables.
 
-# Pre-Requisite:
-  * Panther Web
+# Prerequisite:
+  * Panther Web 5.5*
   * Apache  Web Server
 
 # This repo consists of the following files:
@@ -35,4 +35,6 @@ Video for Report Writer and Datatables: https://youtu.be/qk_K2Jd9Aco
 
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
 
-Contact support@prolifics.com for a 45 day license included.
+Contact support@prolifics.com for a 45 day license.
+
+How to setup a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases)
