@@ -33,7 +33,7 @@ If you wish to generate PDF reports from this Panther screen, please visit our o
 
 Video for Report Writer and Datatables: https://youtu.be/qk_K2Jd9Aco
 
-Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
+Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
 
