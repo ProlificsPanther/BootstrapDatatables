@@ -1,5 +1,5 @@
 # Datatables
-This repository contains source on how to integrate a Panther grid screen with Bootstrap datatables.
+This repository contains source   to show you how to integrate a Panther grid screen with Bootstrap datatables.
 
 # Prerequisite:
   * Panther Web 5.5*
