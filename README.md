@@ -15,7 +15,7 @@ This repository contains source on how to integrate a Panther grid screen with B
   * cookie database file
   
 # Cookiedb.lib
-This library ontains the Panther grid screen. Pyordr.html is attached as a HTML template.
+This library contains the Panther grid screen. Pyordr.html is attached as a HTML template.
 
 # Pyordr.jpl
 Jpl code which is included in the Panther screen. 
