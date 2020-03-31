@@ -1,11 +1,11 @@
-# Panther w Bootstrap Datatables
+# Panther with Bootstrap Datatables
 This repository contains  a sample of how to integrate a Panther Grid screen with Bootstrap Datatables. IT also demostrates a JQuery Click even on a row.
 
-# Prerequisite:
+# Prerequisite
   * Panther Web 5.5*
   * Apache  Web Server
 
-# This repo consists of the following files:
+# This repository consists of the following files:
   * main.css
   * pyordr.html
   * pyordr.jpl
@@ -23,7 +23,7 @@ The Next Panther screen
 # Pyordr.jpl
 Jpl code which is included in the Panther screen. 
 
-# Pyordr.html
+# pyordr.html
 HTML template that is included in the Panther screen. The HTML will generate a user-defined UI for the screen. Main.css and pyordr.js are referenced in the HTML template.
 
 # cookie database file
