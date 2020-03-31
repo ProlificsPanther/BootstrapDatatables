@@ -40,12 +40,16 @@ var data5= $('input[name="' + paidamount + '"]').val();
 	}
 
 	$('#payorder_data_table').DataTable({
+		"columnDefs": [
+    { "width": "5%", "targets": 0 }
+	
+  ],
 		"scrollY":        "342px",
         "scrollCollapse": true,
         "paging":         false,
 		data : dataSet,
 		columns : [
-{ "title":"Serial Number" },
+{ "title":"S.No" },
 { "title":"Pay Date" },
 { "title": "Boxes" },
 { "title": "Due Amount($)" },
