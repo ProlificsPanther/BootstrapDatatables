@@ -2,3 +2,10 @@ proc orderdetailspay
 {
 dbms sql select * from payoders order by serialnumber
 }
+
+proc callnext
+{
+send bundle "serial" data flag
+
+call sm_jform('next')
+}
