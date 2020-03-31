@@ -11,7 +11,6 @@ This repository contains source   to show you how to integrate a Panther grid sc
   * pyordr.jpl
   * pyordr.js
   * cookiedb.lib
-  * bootstrap_headers.zip
   * cookie database file
   
 # Cookiedb.lib
@@ -22,9 +21,6 @@ Jpl code which is included in the Panther screen.
 
 # Pyordr.html
 This is the HTML template that is included in the Panther screen. The HTML will generate a user-defined UI for the screen. Main.css and pyordr.js are referenced in the HTML template.
-
-# bootstrap_headers.zip
-Please unzip  this file . Make sure SMPATH  points to the location of this file . SMPATH is configured in your Panther Web ini. This folder contains multiple bootstrap Javascript and CSS files which are  referenced in a file called icmsHeader.html and icmsFooter.html. These files are being referenced in pyordr.html which loads the datatables.
 
 # cookie database file
 JDB database containing  data used to populate Panther Grids/Datatables.
