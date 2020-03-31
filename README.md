@@ -5,7 +5,7 @@ This repository contains  a sample of how to integrate a Panther Grid screen wit
   * Panther Web 5.5*
   * Apache  Web Server
 
-# This repository consists of the following files:
+# This repository consists of the following files
   * main.css
   * pyordr.html
   * pyordr.jpl
