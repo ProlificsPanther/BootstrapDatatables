@@ -1,5 +1,5 @@
-# Datatables
-This repository contains source   to show you how to integrate a Panther grid screen with Bootstrap datatables.
+# Panther w Bootstrap Datatables
+This repository contains  a sample of how to integrate a Panther Grid screen with Bootstrap Datatables. IT also demostrates a JQuery Click even on a row.
 
 # Prerequisite:
   * Panther Web 5.5*
@@ -15,24 +15,21 @@ This repository contains source   to show you how to integrate a Panther grid sc
   * cookie database file
   
 # pyordr.scr
-Panther screen which has the grid. Pyordr.html is attached as a HTML template.
+Panther screen containing a grid. Pyordr.html is attached as an HTML template.
 
 # next.scr
-Panther screen
+The Next Panther screen
 
 # Pyordr.jpl
 Jpl code which is included in the Panther screen. 
 
 # Pyordr.html
-This is the HTML template that is included in the Panther screen. The HTML will generate a user-defined UI for the screen. Main.css and pyordr.js are referenced in the HTML template.
+HTML template that is included in the Panther screen. The HTML will generate a user-defined UI for the screen. Main.css and pyordr.js are referenced in the HTML template.
 
 # cookie database file
 JDB database containing  data used to populate Panther Grids/Datatables.
 
 # Videos and Links
-If you wish to generate PDF reports from this Panther screen, please visit our other repository: https://github.com/ProlificsPanther/ReportWriter
-
-Video for Report Writer and Datatables: https://youtu.be/qk_K2Jd9Aco
 
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
