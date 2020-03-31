@@ -1,7 +1,7 @@
 # Panther with Bootstrap Datatables
 This sample contains a responsive Panther Grid/Bootstrap Datatable screen.The sample also demostrates a JQuery Click event on a row.
 
-![](image.PNG)
+![](pyordr.PNG)
 
 # Prerequisite
   * Panther Web 5.5*
