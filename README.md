@@ -27,6 +27,8 @@ Jpl code which is included in the Panther screen.
 HTML template that is included in the Panther screen. The HTML will generate a user-defined UI for the screen. Main.css and pyordr.js are referenced in the HTML template.
 Our Migration Utility  was used to generate this HTML template
 
+# pyordr.js
+
 # cookie database file
 JDB database containing  data used to populate Panther Grids/Datatables.
 
