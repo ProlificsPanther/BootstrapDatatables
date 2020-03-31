@@ -10,11 +10,15 @@ This repository contains source   to show you how to integrate a Panther grid sc
   * pyordr.html
   * pyordr.jpl
   * pyordr.js
-  * cookiedb.lib
+  * pyordr.scr
+  * next.scr
   * cookie database file
   
-# Cookiedb.lib
-This library contains the Panther grid screen. Pyordr.html is attached as a HTML template.
+# pyordr.scr
+Panther screen which has the grid. Pyordr.html is attached as a HTML template.
+
+# next.scr
+Panther screen
 
 # Pyordr.jpl
 Jpl code which is included in the Panther screen. 
