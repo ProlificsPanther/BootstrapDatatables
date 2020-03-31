@@ -30,7 +30,8 @@ HTML template that is included in the Panther screen. The HTML will generate a u
 Our Migration Utility(Panther 5.52)  was used to generate this HTML template
 
 # pyordr.js
-Javascript File created by the Migration Utility contains refereces to Bootstrap libraries, making it a responsive web screen
+Javascript File created by the Panther Migration Utility containing references to Bootstrap libraries, making it a responsive web screen.
+The Javascript at the bottom of this file will allow a user to make a row click on the DataTable, fetch the row data and at the same time submit the Panther Screen by means of a hidden pushbutton.
 
 # cookie database file
 JDB database containing  data used to populate Panther Grids/Datatables.
