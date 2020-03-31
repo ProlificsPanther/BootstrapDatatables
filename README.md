@@ -1,5 +1,5 @@
 # Panther with Bootstrap Datatables
-This repository contains  a sample of how to integrate a Panther Grid screen with Bootstrap Datatables. IT also demostrates a JQuery Click even on a row.
+This repository contains  a sample of how to integrate a Panther Grid screen with Bootstrap Datatables. IT also demostrates a JQuery Click event on a row.
 
 # Prerequisite
   * Panther Web 5.5*
