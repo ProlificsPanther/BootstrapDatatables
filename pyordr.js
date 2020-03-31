@@ -54,4 +54,10 @@ var data5= $('input[name="' + paidamount + '"]').val();
 });
 	var table = $('#payorder_data_table').DataTable();
 	
+	$('#payorder_data_table').on( 'click', 'tr td:nth-of-type(1)', function (){
+		var serial_number = table.row( this ).id();
+		$("input[name='i_1_flag']").val(serial_number) ;
+		$("input[name='spi_1_nextscreen']").click();
+	});
+	
 }
