@@ -4,11 +4,10 @@ $(document).ready(function() {
 
 var _buildGrid = function() {
 	// create the data array
-
 var dataSet = [];
-	var i = 1;
-	var serialnumber = "";
-	var paydate = "";
+var i = 1;
+var serialnumber = "";
+var paydate = "";
 var boxes = "";
 var dueamount = "";
 var paidamount = "";
@@ -40,23 +39,29 @@ var data5= $('input[name="' + paidamount + '"]').val();
 	}
 
 	$('#payorder_data_table').DataTable({
-		"columnDefs": [
-    { "width": "5%", "targets": 0 }
+		
+"columnDefs": [
+    
+	{ "width": "5%", "targets": 0 }
 	
-  ],
-		"scrollY":        "342px",
+  	],
+		
+	"scrollY":        "342px",
         "scrollCollapse": true,
         "paging":         false,
-		data : dataSet,
-		columns : [
+	data : dataSet,
+		
+columns : [
 { "title":"S.No" },
 { "title":"Pay Date" },
 { "title": "Boxes" },
 { "title": "Due Amount($)" },
 { "title": "Paid Amount($)" }
-		]
+	]
+		
 });
-	var table = $('#payorder_data_table').DataTable();
+	
+var table = $('#payorder_data_table').DataTable();
 	
 	$('#payorder_data_table').on( 'click', 'tr td:nth-of-type(1)', function (){
 		var serial_number = table.row( this ).id();
