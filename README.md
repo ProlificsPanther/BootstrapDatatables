@@ -35,8 +35,6 @@ The Javascript at the bottom of this file will allow a user to make a row click 
 # cookie database file (to populate data)
 JDB database containing data used to populate Panther Grids/Datatables.
 
-# Videos and Links
-
 Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb)
 
 [Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45-day license.
